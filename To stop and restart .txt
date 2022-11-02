@@ -1,0 +1,9 @@
+sh app/COREAPI_1/bin/shutdown.sh
+sh app/ORDERMGMT_1/bin/shutdown.sh
+sh app/CATALOGUE_1/bin/shutdown.sh
+sh app/CUSTOMERBACKEND_1/bin/shutdown.sh
+sh app/CUSTOMERFRONTEND_1/bin/shutdown.sh
+sh app/ADMINAPI_1/bin/shutdown.sh
+
+
+
